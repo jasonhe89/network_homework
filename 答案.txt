@@ -1,0 +1,8 @@
+while(TRUE) {　　　　　　　　　　　　　　　　　 /* repeat forever */
+　　type_prompt();　　　　　　　　　　　　　　　/* display prompt on the screen */
+　　read_command(command,parameters);　　　 /* read input from terminal */
+display
+read_command ==> command = myserver server_port directory_path //break by space
+
+if args.length != 3 
+if myserver != myserver  ==>error 
